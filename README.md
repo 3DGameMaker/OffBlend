@@ -2,10 +2,21 @@
 Live off axis projection with head tracking for blender
 
 Thanks to https://github.com/calcoloergosum/blender-off-axis-projection/  for the original code
+Requirements: 
+Python 3.11
+Blender 2.93 - 3.0
+Pip
 
 How to use:
+Open command prompt (write cmd in start menu)
 
-Run background.py in a command prompt window
+Run "git clone https://github.com/3DGameMaker/OffBlend/"
+
+Run "cd OffBlend"
+
+Run "pip install -r requirements.txt"
+
+Run "python background.py"
 
 Open Blender, then make a new project.
 
