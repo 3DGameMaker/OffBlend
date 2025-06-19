@@ -4,13 +4,14 @@ Live off axis projection with head tracking for blender
 Thanks to https://github.com/calcoloergosum/blender-off-axis-projection/  for the original code
 Requirements: 
 
-Git (install at https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe)
+Git (Windows) (install at https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe)
+Git (Linux) (install with commands at https://git-scm.com/downloads/linux)
 
-Python 3.11
+Python 3.11 (find at the very bottom of this page: https://www.python.org/downloads/release/python-3110/)
 
-Blender 2.93 - 3.0
+Blender 2.93 - 3.0 (get at https://download.blender.org/release/Blender2.93/)
 
-Pip
+Pip (install with python here: https://bootstrap.pypa.io/get-pip.py)
 
 How to use:
 Open command prompt (write cmd in start menu)
