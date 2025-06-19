@@ -43,4 +43,14 @@ Now you can press Alt+P, then Space.
 
 Go into the camera's view and you can see it tracks your head with off axis projection.
 
+Images of the program (aka literally just my freinds goofing around with the background code)
+
 ![1](https://github.com/user-attachments/assets/b2fecbd0-debd-4b43-b7c4-ada92bede040)
+
+![2](https://github.com/user-attachments/assets/6abe42a3-c516-4318-8105-b28b388edb8d)
+
+![3](https://github.com/user-attachments/assets/4b52c5b3-932e-47dd-9c51-83f2c8c56ea6)
+
+![5](https://github.com/user-attachments/assets/e4fc3be8-1c87-4c62-b11c-9f066cc48949)
+
+![6](https://github.com/user-attachments/assets/4d3d3d8d-643f-4f1c-9d7b-09dddcb63c38)
