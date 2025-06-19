@@ -47,9 +47,15 @@ Images of the program (aka literally just my freinds goofing around with the bac
 
 ![1](https://github.com/user-attachments/assets/b2fecbd0-debd-4b43-b7c4-ada92bede040)
 
+also you cant go too fast:
+
 ![2](https://github.com/user-attachments/assets/6abe42a3-c516-4318-8105-b28b388edb8d)
 
 ![3](https://github.com/user-attachments/assets/4b52c5b3-932e-47dd-9c51-83f2c8c56ea6)
+
+or off the screen
+
+![4](https://github.com/user-attachments/assets/5f29f80f-7f39-4397-a0ef-5757590e6942)
 
 ![5](https://github.com/user-attachments/assets/e4fc3be8-1c87-4c62-b11c-9f066cc48949)
 
