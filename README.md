@@ -42,3 +42,5 @@ Now put as many objects on the plane as you want.
 Now you can press Alt+P, then Space.
 
 Go into the camera's view and you can see it tracks your head with off axis projection.
+
+![1]([https://github.com/user-attachments/assets/401334fb-5205-41fa-a7d4-8a72968c56ac](https://raw.githubusercontent.com/3DGameMaker/OffBlend/refs/heads/main/demo/1.png)
